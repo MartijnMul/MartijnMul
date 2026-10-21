@@ -1,8 +1,8 @@
 ### Martijn Mullié
 
 I build software end to end, from the first sketch to production:
-web platforms, voice AI, tools for the factory floor, and small apps for
-the Mac. Most of it is client and company work in private repositories;
+web platforms, voice AI, tools for the factory floor, and small
+open-source apps. Most of it is client and company work in private repositories;
 the open-source part lives here.
 
 **Open source**

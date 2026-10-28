@@ -10,13 +10,14 @@ the open-source part lives here.
 - [Get Caffeinated](https://github.com/MartijnMul/get-caffeinated): keeps
   your Mac awake from the menu bar, until a time, until unplugged or until
   you leave. Swift.
+- [Plaincontrol](https://github.com/MartijnMul/plaincontrol): see which
+  Claude Code session needs you, from the menu bar, and jump to it; open any
+  project from the keyboard in Claude Code, your terminal or your editor,
+  with windows placed in columns across your screens. Swift.
 - **Allstill** *(in development)*: self-hosted monitoring for cron jobs,
   backups and websites, with a macOS menu bar app.
 - **PlainSign** *(in development)*: get contracts signed on your own server,
   with evidence anyone can check. Go.
-- **Plaincontrol** *(in development)*: open any project from the keyboard
-  in your terminal, editor or Finder, with windows placed in columns across
-  your screens, and every running Claude Code session one key away. Swift.
 
 **Work**
 
